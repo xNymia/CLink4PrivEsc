@@ -34,7 +34,7 @@ The vulnerabliltiy presented by the Corsair Link 4 is in its Service configurati
 
 The output of this command shows us that we have full access to the service named `CLink4Service`. This means we can modify the configuration of this service. Maybe it can do something for us!
 
-![Clink Service](Clink4ServiceAccess.png)
+![Clink Service](serviceaccess.png)
 
 If we take a look at the service itself we can see several things we may be able to take advantage of. 
 
