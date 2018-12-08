@@ -1,7 +1,7 @@
 # A trip from Unprivilaged to System with the Corsair Link 4
 
 ## Summary 
-The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) platform creates a system service that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
+The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) platform, used to manage Corsair hardware via the Operating System, creates a system service that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
 
 ## Vulnerability Impact
 * This attack would allow a malicious user to gain privileged access to a compromised host.
