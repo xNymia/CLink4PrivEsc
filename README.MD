@@ -1,5 +1,10 @@
 # A trip from Unprivilaged to System with the Corsair Link 4
 
+## Disclosure
+2018/12/07 - No Corsair Bug Bounty program Idenitifed.
+2018/12/07 - Reached out to Corsaire via Customer Support
+
+
 ## Summary 
 The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) platform, used to manage Corsair hardware via the Operating System, creates a system service that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
 
