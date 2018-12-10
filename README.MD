@@ -2,7 +2,7 @@
 
 ## Disclosure
 * 2018/12/07 - No Corsair Bug Bounty program Idenitifed.
-* 2018/12/07 - Reached out to Corsaire via Customer Support
+* 2018/12/07 - Reached out to Corsair via Customer Support (Ticket #819734)
 
 
 ## Summary 
