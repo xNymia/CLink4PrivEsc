@@ -1,8 +1,8 @@
 # A trip from Unprivilaged to System with the Corsair Link 4
 
 ## Disclosure
-2018/12/07 - No Corsair Bug Bounty program Idenitifed.
-2018/12/07 - Reached out to Corsaire via Customer Support
+* 2018/12/07 - No Corsair Bug Bounty program Idenitifed.
+* 2018/12/07 - Reached out to Corsaire via Customer Support
 
 
 ## Summary 
