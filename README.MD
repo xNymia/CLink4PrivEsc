@@ -13,7 +13,10 @@ The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) and [Corsair iCUE]
 
 ## Vulnerability Impact
 * This attack would allow a malicious user to gain privileged access to a compromised host.
-    * https://attack.mitre.org/techniques/T1058/
+    * https://attack.mitre.org/techniques/T1058
+    * https://attack.mitre.org/techniques/T1035
+    * https://pentestlab.blog/2017/03/30/weak-service-permissions/
+    * http://hackingandsecurity.blogspot.com/2017/07/windows-privilege-escalation-via-weak.html
 
 * This is a local privilege escalation, and will not perform the initial compromise of a host. 
 
