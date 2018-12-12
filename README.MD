@@ -1,14 +1,15 @@
-# A trip from Unprivilaged to System with the Corsair Link 4
+# Unprivilaged to System with the Corsair Link 4 and Corsair iCUE
 
 ## Disclosure
 * 2018/12/07 - No Corsair Bug Bounty program Idenitifed.
 * 2018/12/07 - Reached out to Corsair via Customer Support (Ticket #819734)
 * 2018/12/12 - Advised by Corsair rep that they have no bug bounty program, advised to submit to buisness sales... 
 * 2018/12/12 - Reaching out to Corsair developer over twitter, may actually get somewhere.
+* 12/12/2018 - Added iCUE details
 
 
 ## Summary 
-The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) platform, used to manage Corsair hardware via the Operating System, creates a system service that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
+The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) and [Corsair iCUE](https://www.corsair.com/eu/en/icue) platforms, used to manage Corsair hardware via the Operating System, create a system service that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
 
 ## Vulnerability Impact
 * This attack would allow a malicious user to gain privileged access to a compromised host.
@@ -97,3 +98,10 @@ Last step is the easiest, we just logout and select the utilities manager at the
 
 If for whatever reason you absolutely needed SYSTEM level access, you now have it.
 
+
+## Corsair iCUE 
+
+The same issue is present in the iCUE service:
+![iCue Version](iCUEVersion.png)
+
+![iCue](iCueservice.png)
