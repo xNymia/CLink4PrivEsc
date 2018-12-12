@@ -9,7 +9,7 @@
 
 
 ## Summary 
-The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) and [Corsair iCUE](https://www.corsair.com/eu/en/icue) platforms, used to manage Corsair hardware via the Operating System, create a system service with weak service permissions that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
+The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) and [Corsair iCUE](https://www.corsair.com/eu/en/icue) platforms, used to manage Corsair hardware via the Operating System, create a system service (`Clink4Service` in the Corsaire Link and `CorsairService` in iCUE) with weak service permissions that can be accessed and modified to allow an unprivilaged user to perform a privilage escalation attack. This can be used to attain Administrative, or System Level access if chained.
 
 ## Vulnerability Impact
 * This attack would allow a malicious user to gain privileged access to a compromised host.
