@@ -18,7 +18,7 @@ The [Corsair Link](https://www.corsair.com/eu/en/corsairlink) and [Corsair iCUE]
 * This is a local privilege escalation, and will not perform the initial compromise of a host. 
 
 ## Remediation
-Services should be greated with Administrator only modification permissions to prevent this form of attack.
+Services should be generated with appropriately secure Security Descriptors to prevent malicious use of this service.
 
 ## Proof Of Concept
 
