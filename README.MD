@@ -1,4 +1,4 @@
-# Unprivilaged to System with the Corsair Link 4 and Corsair iCUE
+# Unprivilaged to System via Corsair Link 4 and Corsair iCUE
 
 ## Disclosure
 * 2018/12/07 - No Corsair Bug Bounty program Idenitifed.
