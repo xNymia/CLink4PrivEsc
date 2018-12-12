@@ -6,7 +6,8 @@
 * 2018/12/12 - Advised by Corsair rep that they have no bug bounty program, advised to submit to buisness sales... 
 * 2018/12/12 - Reaching out to Corsair developer over twitter, may actually get somewhere.
 * 2018/12/12 - Added iCUE details
-* 2018/12/12 - Disclosure PDF sent to `Dustin.sklavos@corsair.com`
+* 2018/12/12 - Disclosure PDF sent to Corsair iCUE team
+
 
 
 ## Summary 
