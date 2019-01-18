@@ -7,6 +7,7 @@
 * 2018/12/12 - Reaching out to Corsair developer over twitter, may actually get somewhere.
 * 2018/12/12 - Added iCUE details
 * 2018/12/12 - Disclosure PDF sent to Corsair iCUE team
+* 2019/01/11 - ICUE Vulnerability Resolved. Link4 Patch to be released soon.
 
 
 
